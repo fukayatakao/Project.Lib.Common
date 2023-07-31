@@ -1,4 +1,4 @@
-# Project.Lib.Common
+# Common
 
 
 
@@ -15,14 +15,14 @@ Already a pro? Just edit this README.md and make it your own. Want to make it ea
 
 ```
 cd existing_repo
-git remote add origin https://gitlab.com/presidente.mk2/project.lib.common.git
+git remote add origin https://gitlab.com/presidente.mk2/common.git
 git branch -M main
 git push -uf origin main
 ```
 
 ## Integrate with your tools
 
-- [ ] [Set up project integrations](https://gitlab.com/presidente.mk2/project.lib.common/-/settings/integrations)
+- [ ] [Set up project integrations](https://gitlab.com/presidente.mk2/common/-/settings/integrations)
 
 ## Collaborate with your team
 
